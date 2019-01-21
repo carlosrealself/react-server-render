@@ -18,6 +18,11 @@ These instructions will get you a copy of the project up and running on your loc
 ```sh
  $ node server.js
 ```
+###### Run json-server
+```sh
+ $ jsonserver db.json
+```
+
 ###### Docker build
 ```sh
  $ docker build -t <IMAGE_NAME> .
